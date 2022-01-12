@@ -21,7 +21,7 @@
                 <input type="email" name="email" class="form-control" placeholder="Enter Admin Email" value="<?php echo $user['email'] ?>">
             </div>
 
-            <button type="submit" name="update" class="btn btn-primary">Update Student</button>
+            <button type="submit" name="update" class="btn btn-primary">Update Admin</button>
         </form>
 
 </div>

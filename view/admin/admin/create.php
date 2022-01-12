@@ -18,7 +18,7 @@
                 <button type="button" onclick="genRandomPassword()" class="btn btn-sm btn-dark" style="margin-top: 5px;">Make Random Password</button>
             </div>
 
-            <button type="submit" name="create" class="btn btn-primary">Create Student</button>
+            <button type="submit" name="create" class="btn btn-primary">Create Admin</button>
         </form>
 
     </div>

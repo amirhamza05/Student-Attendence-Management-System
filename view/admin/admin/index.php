@@ -5,7 +5,7 @@ $users = user()->all();
 
 <?php lib()->formResponse(); ?>
 <div class="float-right" style="margin-bottom: 15px;">
-  <a href="?create=true" class="btn btn-primary">Create Student</a>
+  <a href="?create=true" class="btn btn-primary">Create Admin</a>
 </div>
 
 <table class="table table-bordered">
